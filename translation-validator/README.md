@@ -4,7 +4,7 @@ This agent validates translated SQL files between a source dialect and BigQuery 
 
 ## Architecture Diagram
 
-![Alt text for the image] (images/arch.png)
+![Alt text for the image](images/Architecture.png)
 
 
 ## How to Execute
